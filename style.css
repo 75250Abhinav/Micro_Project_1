@@ -15,6 +15,7 @@
     flex-direction: row;
     justify-content: space-between;
     padding: 44px;
+    
 }
 
 body{
@@ -29,6 +30,9 @@ body{
      font-size: 36px;
      font-weight: 700;
      padding: 25px;
+     width: 600px;
+     margin-top: 50px;
+     margin-left: 50px;
 }
 
 #text2{
@@ -37,6 +41,8 @@ body{
     font-weight: 500;
     font-size: 20px;
     padding: 25px;
+    width: 600px;
+    margin-left: 50px;
 }
 #text3{
     color: #282828;
@@ -44,6 +50,8 @@ body{
     font-weight:800;
     font-size: 20px;
     padding: 25px;
+    width: 600px;
+    margin-left: 50px;
 }
 #input1{
     border: width 4px;
@@ -66,9 +74,13 @@ body{
     font-weight: 500;
     font-size: 16px;
     padding: 25px;
+    width: auto;
+    margin-left: 50px;
 }
 #inputbutton{
     padding: 25px;
+    width: auto;
+    margin-left: 50px;
 }
 ul{
     list-style-type: none;
